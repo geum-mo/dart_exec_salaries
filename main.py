@@ -8,7 +8,7 @@ import os
 import xmltodict
 from pathlib import Path
 
-API_KEY = "2dd061ca9644880af0d55b1a47e970472f8dad2d"
+API_KEY = ""
 params = {"crtfc_key": API_KEY}
 URL = "https://opendart.fss.or.kr/api/corpCode.xml"
 
